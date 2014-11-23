@@ -2,3 +2,5 @@ Binaries/*
 DerivedDataCache/*
 Intermediate/*
 Saved/*
+Build/MacNoEditor
+MacNoEditor/StarShip.app
